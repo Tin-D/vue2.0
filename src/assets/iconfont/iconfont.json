@@ -1,0 +1,37 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "372210",
+      "name": "cc-menu-circle",
+      "font_class": "cc-menu-circle",
+      "unicode": "e672",
+      "unicode_decimal": 58994
+    },
+    {
+      "icon_id": "637563",
+      "name": "LC_icon_message_line_3",
+      "font_class": "LC_icon_message_line_3",
+      "unicode": "e609",
+      "unicode_decimal": 58889
+    },
+    {
+      "icon_id": "6151238",
+      "name": "pic-side",
+      "font_class": "pic-side",
+      "unicode": "e803",
+      "unicode_decimal": 59395
+    },
+    {
+      "icon_id": "13932733",
+      "name": "video",
+      "font_class": "video",
+      "unicode": "e636",
+      "unicode_decimal": 58934
+    }
+  ]
+}
